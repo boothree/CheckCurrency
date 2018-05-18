@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Курс валют</string>
+    <string name="currency">Валюта</string>
+    <string name="volume">Цена</string>
+    <string name="amount">Кол-во</string>
+    <string name="refresh">Обновить</string>
+
+</resources>
