@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 state = lv.onSaveInstanceState();
                 callServer();
             }
-        }, 0, 5000);
+        }, 0, 15000);
 
     }
 
